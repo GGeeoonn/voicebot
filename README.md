@@ -1,1 +1,1 @@
-Creating a chatbot using openai (practice)
+Creating a voicebot using openai (practice)
